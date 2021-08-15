@@ -12,4 +12,4 @@ def f(n):
     return total_sum, even_sum, odd_sum
 
 
-print(f(4))
+print(f(12))
